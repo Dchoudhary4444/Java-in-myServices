@@ -1,0 +1,1 @@
+javac -cp c:\tomcat9\lib\*;c:\tomcat9\webapps\myServices\WEB-INF\lib\*;c:\tomcat9\webapps\myServices\WEB-INF\classes;. *.java
